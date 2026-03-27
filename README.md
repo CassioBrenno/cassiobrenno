@@ -8,10 +8,10 @@
   </a>
 </p>
 
-
+<div align="center">
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
+</div>
 
 ---
 
@@ -84,14 +84,15 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioBrenno&theme=gotham&layout=compact"width="47%"/> 
-</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 <a href="https://github.com/CassioBrenno?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=CassioBrenno&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CassioBrenno's github-readme-stats"/></a>
 <a href="https://github.com/CassioBrenno?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=CassioBrenno&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CB's github-readme-streak-stats"/></a>
 </p>
+
 
 ---
 
