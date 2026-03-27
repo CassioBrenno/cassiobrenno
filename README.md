@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<div align="center">
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+<div align="center" width=148%>
+I build <strong>scalable products</strong>, <strong>SaaS platforms</strong>, and <strong>high-performance web systems</strong>.  
+I’m deeply focused on <strong>architecture, performance, clean code, and business-driven solutions</strong>.
 </div>
 
 ---
