@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<div align="center" width=148%>
+<div align="center" width=120%>
 I build <strong>scalable products</strong>, <strong>SaaS platforms</strong>, and <strong>high-performance web systems</strong>.  
 I’m deeply focused on <strong>architecture, performance, clean code, and business-driven solutions</strong>.
 </div>
