@@ -9,10 +9,9 @@
 </p>
 
 
-🇧🇷 Brazil
-
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+
 
 ---
 
@@ -86,8 +85,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CassioBrenno&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioBrenno&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cassiobrenno&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiobrenno&layout=compact&theme=tokyonight" />
 </p>
 
 ---
