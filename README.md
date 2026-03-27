@@ -1,6 +1,6 @@
 # <h1 align="center">Hi! 👋🏾 I'm <strong>Cássio Brenno</strong></h1>
 
- <h2 align="center">**Full Stack Developer**</h2>
+ <h2 align="center"><strong>Full Stack Developer</strong></h2>
 
  <p align="center" width="148%">
   <a href="https://portifolio-cassiobrenno.vercel.app/" style="font-size: 20px; font-weight: bold;">
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<div align="center" width=120%>
+<div align="center" width=50%>
 I build <strong>scalable products</strong>, <strong>SaaS platforms</strong>, and <strong>high-performance web systems</strong>.  
 I’m deeply focused on <strong>architecture, performance, clean code, and business-driven solutions</strong>.
 </div>
