@@ -85,7 +85,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiobrenno&theme=gotham&layout=compact"width="47%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioBrenno&theme=gotham&layout=compact"width="47%"/> 
 </p>
 
 <p align="center">
