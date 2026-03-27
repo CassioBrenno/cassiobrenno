@@ -70,6 +70,7 @@ I’m deeply focused on <strong>architecture, performance, clean code, and busin
     <img alt="Oracle SQL" height="50" width="60" src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000">
 </div>
 <br>
+
 ### DevOps & Tools
 
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
