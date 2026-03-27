@@ -45,7 +45,7 @@ I’m deeply focused on <strong>architecture, performance, clean code, and busin
 ### Frontend
 
 
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap; width=47%">
   <img alt="JavaScript" height="50" width="60" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
   <img alt="TypeScript" height="50" width="60" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
   <img alt="Angular" height="50" width="60" src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000">
