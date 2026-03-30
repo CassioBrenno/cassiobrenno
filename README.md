@@ -11,16 +11,19 @@
 
 <br>
 <div width=50%>
- Experience
+ <br>
+  <strong>Experience</strong>
+ </br>
+ <br></br>
  <br>
  Full Stack Developer | Web | Games | Mobile
  </br>
  <br>
  10 years of consolidated experience, primarily in Java, developing native applications (Android), games, CRM systems, and complete online sales platforms including shopping carts, PIX integration, and inventory management.
 
- My areas of expertise include:
- • Backend & Frontend development
- • Maintenance, redesign, and optimization of legacy code (CRUD, performance, security)
+ My areas of expertise include:<br></br>
+ • Backend & Frontend development<br></br>
+ • Maintenance, redesign, and optimization of legacy code (CRUD, performance, security)<br></br>
  • Application optimization for better user experience.
  </br>
 
