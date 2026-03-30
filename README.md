@@ -11,9 +11,8 @@
 
 <br>
 <div width=50%>
- <br>
+ 
   <strong>Experience</strong>
- </br>
  <br></br>
  <br>
  Full Stack Developer | Web | Games | Mobile
