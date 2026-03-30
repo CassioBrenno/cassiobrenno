@@ -3,7 +3,7 @@
  <h2 align="center"><strong>Full Stack Developer</strong></h2>
 
 <br>
-I am a Full Stack Developer with +8 years of experience building scalable, high-performance applications, primarily focused on Java (and Kotlin) on the backend and React (Next.js) on the frontend.
+I am a Full Stack Developer with +8 years of experience building scalable, high-performance applications, primarily focused on Java (and Kotlin) on the backend and React (Next.js) on the frontend.<br>
 
 I specialize in designing and developing robust RESTful APIs, modernizing legacy systems, optimizing performance, and ensuring reliability in high-load environments.
 
@@ -12,8 +12,8 @@ I have worked on end-to-end solutions for e-commerce platforms, CRM systems, and
 Some highlights:<br>
 
 • I significantly improved the performance of legacy applications, reducing response times and increasing stability.<br>
-•I developed scalable APIs that support high transaction volumes (payments and PIX).<br>
-•I built and maintained complete sales platforms, with inventory management, shopping cart, and checkout.<br>
+• I developed scalable APIs that support high transaction volumes (payments and PIX).<br>
+• I built and maintained complete sales platforms, with inventory management, shopping cart, and checkout.<br>
 
 Always seeking clean, efficient solutions that generate real value for the business.
 
