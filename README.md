@@ -2,15 +2,17 @@
 
  <h2 align="center"><strong>Full Stack Developer</strong></h2>
 
- <p align="center" width="148%">
-  <a href="https://portifolio-cassiobrenno.vercel.app/" style="font-size: 20px; font-weight: bold;">
-    👉 <strong>Visity my portfolio</strong> 👈
-  </a>
-</p>
-
+<br>
 <div align="center" width=50%>
-I build <strong>scalable products</strong>, <strong>SaaS platforms</strong>, and <strong>high-performance web systems</strong>.  
-I’m deeply focused on <strong>architecture, performance, clean code, and business-driven solutions</strong>.
+ I am a Full Stack developer with solid experience in large companies, specializing in Java, ReactJS, and SQL.
+ I develop APIs and complete systems focusing on performance, scalability, and best practices. I also work on modernizing legacy systems, performing migration and optimization of services, including high-performance  CRUDs.
+
+ <p align="center" width="148%">
+   <a href="https://portifolio-cassiobrenno.vercel.app/" style="font-size: 20px; font-weight: bold;">
+     👉 <strong>ckeck my portfolio</strong> 👈
+   </a>
+ </p>
+
 </div>
 
 ---
