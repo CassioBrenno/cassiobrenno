@@ -3,37 +3,26 @@
  <h2 align="center"><strong>Full Stack Developer</strong></h2>
 
 <br>
-<div width=50%>
- I am a Full Stack developer with solid experience in large companies, specializing in Java, ReactJS, and SQL.
- <br>
- I develop APIs and complete systems focusing on performance, scalability, and best practices. I also work on modernizing legacy systems, performing migration and optimization of services, including high-performance  CRUDs.
- </br>
+I am a Full Stack Developer with +8 years of experience building scalable, high-performance applications, primarily focused on Java (and Kotlin) on the backend and React (Next.js) on the frontend.
 
-<br>
-<div width=50%>
- 
-  <strong>Experience</strong>
- <br></br>
- <br>
- Full Stack Developer | Web | Games | Mobile
- </br>
- <br>
- 10 years of consolidated experience, primarily in Java, developing native applications (Android), games, CRM systems, and complete online sales platforms including shopping carts, PIX integration, and inventory management.
+I specialize in designing and developing robust RESTful APIs, modernizing legacy systems, optimizing performance, and ensuring reliability in high-load environments.
 
- My areas of expertise include:<br></br>
- • Backend & Frontend development<br></br>
- • Maintenance, redesign, and optimization of legacy code (CRUD, performance, security)<br></br>
- • Application optimization for better user experience.
- </br>
+I have worked on end-to-end solutions for e-commerce platforms, CRM systems, and real-time applications, including critical integrations such as PIX and payments.
 
- <br>
+Some highlights:
+
+• I significantly improved the performance of legacy applications, reducing response times and increasing stability.
+•I developed scalable APIs that support high transaction volumes (payments and PIX).
+•I built and maintained complete sales platforms, with inventory management, shopping cart, and checkout.
+
+Always seeking clean, efficient solutions that generate real value for the business.
+
+
  <p align="center" width="148%">
-   <a href="https://portifolio-cassiobrenno.vercel.app/" style="font-size: 20px; font-weight: bold;">
-     👉 <strong>ckeck my portfolio</strong> 👈
-   </a>
- </p>
- </br>
-</div>
+  <a href="https://portifolio-cassiobrenno.vercel.app/" style="font-size: 20px; font-weight: bold;">
+    👉 <strong>Visity my portfolio</strong> 👈
+  </a>
+</p>
 
 ---
 
