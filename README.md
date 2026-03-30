@@ -2,7 +2,7 @@
 
  <h2 align="center"><strong>Full Stack Developer</strong></h2>
 
-<br>
+<br></br>
 I am a Full Stack Developer with +8 years of experience building scalable, high-performance applications, primarily focused on Java (and Kotlin) on the backend and React (Next.js) on the frontend.<br>
 
 I specialize in designing and developing robust RESTful APIs, modernizing legacy systems, optimizing performance, and ensuring reliability in high-load environments.
