@@ -9,11 +9,11 @@ I specialize in designing and developing robust RESTful APIs, modernizing legacy
 
 I have worked on end-to-end solutions for e-commerce platforms, CRM systems, and real-time applications, including critical integrations such as PIX and payments.
 
-Some highlights:
+Some highlights:<br>
 
-• I significantly improved the performance of legacy applications, reducing response times and increasing stability.
-•I developed scalable APIs that support high transaction volumes (payments and PIX).
-•I built and maintained complete sales platforms, with inventory management, shopping cart, and checkout.
+• I significantly improved the performance of legacy applications, reducing response times and increasing stability.<br>
+•I developed scalable APIs that support high transaction volumes (payments and PIX).<br>
+•I built and maintained complete sales platforms, with inventory management, shopping cart, and checkout.<br>
 
 Always seeking clean, efficient solutions that generate real value for the business.
 
